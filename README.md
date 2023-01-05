@@ -17,7 +17,6 @@ El siguiente proyecto tiene como objetivo realizar un dashboard que refleje 4 KP
 -  En el informe se realizo la exploracion de los datos, para encontrar datos con  erroes o nulos o vacios.
 -  Se hizo el empleo de gráficas para observas la tendencia de los datos.
 -  Se escogieron 4 tablas que seran utilizadas para obtener los kpis deseados.
--
 <br>
 <br>
 
