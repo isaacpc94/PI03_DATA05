@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/isaacpc94/PI02_DATA05/main/images/MChospital.jpg"  height=300><br><br>
+<img src="https://raw.githubusercontent.com/isaacpc94/PI03_DATA05/main/image/PI3jpg.jpg"  height=300><br><br>
 
 # DESCRIPCIÓN DEL PROYECTO :
 
