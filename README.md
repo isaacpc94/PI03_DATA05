@@ -6,17 +6,19 @@
 
 # DESCRIPCIÓN DEL PROYECTO :
 
-El siguiente proyecto tiene como objetivo realizar un dashboard en base a los datos proporcionados por internet fijo en Argentina.
-<br>
-El código utilizado para el presente proyecto se encuentra en el archivo "ProyectoML.ipynb"
+El siguiente proyecto tiene como objetivo realizar un dashboard en base a los datos proporcionados por internet fijo en Argentina 
+en la siguiente web https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/  cuyos archivos csv se encuentra en la carpeta "Dataset" .
+
 <br>
 <br>
 
 # EDA:
 
--  El informe se encuentra en el archivo EDA.docx
--  En el informe se realizo la exploracion de los datos, para encontrar erroes o nulos.
--  Se encuentra los valores únicos para cada feature con el fin de conocer si son categóricos o numéricos.
+-  El informe EDA se encuentra en el archivo EDA.docx
+-  En el informe se realizo la exploracion de los datos, para encontrar datos con  erroes o nulos.
+-  Se hizo el empleo de gráficas para observa la tendencia de los datos.
+-  Se escogieron 4 tablas que seran utilizadas para obtener los kpis deseados.
+-
 <br>
 <br>
 
